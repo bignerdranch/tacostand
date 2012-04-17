@@ -1,0 +1,8 @@
+h2 Taco Menu
+
+p All tacos are made to order
+
+dl
+	- @tacos.each do |taco|
+		dt= taco.name
+		dd= "$#{taco.price}"
