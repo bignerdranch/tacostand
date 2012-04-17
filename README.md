@@ -14,7 +14,7 @@ to the one described here [here](http://not-so-secret-sauce.highgroove.com/topic
 Getting started
 ===============
 
-To run this application run the following commands:
+To run this application run the following commands in your terminal (you can cut and paste if you like):
 
     git clone git@github.com:highgroove/tacostand.git
     cd tacostand
